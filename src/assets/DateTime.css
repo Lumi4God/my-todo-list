@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Blaka+Hollow&family=Bungee&family=Bungee+Shade&family=Creepster&family=Faster+One&family=Frijole&family=Kdam+Thmor+Pro&family=Kumar+One&family=Luckiest+Guy&family=Monofett&family=Monoton&family=Montserrat:wght@300;400;500;600&family=Moo+Lah+Lah&family=Nosifer&family=Pacifico&family=Press+Start+2P&family=Rubik+Wet+Paint&family=Sansita+Swashed:wght@300&family=Satisfy&family=Shojumaru&display=swap');
+
+.logoClock {
+    background: black;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 30px;
+    position: fixed;
+    top: 0;
+}
+
+/***logo***/
+.header__title {
+    color: #fff;
+    font-family: 'Satisfy', cursive;
+    
+}
+.header__title span {
+    color: #4db5ff;
+}
+.check {
+    color: rgb(229, 186, 29);
+}
+
+/***Time***/
+.clock {
+    color: rgb(238, 225, 225);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.time {
+    color:rgb(229, 186, 29);
+}
+
+/***Day***/
+.day{
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+}
+.md {
+    color: rgb(229, 186, 29);
+}
+
+
